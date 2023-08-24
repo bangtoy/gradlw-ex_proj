@@ -28,4 +28,4 @@ steps:
     containerRegistry: 'bangtoy-docker'
     repository: 'firstrepo'
     command: 'buildAndPush'
-    Dockerfile: '**/Dockerfile'
+    Dockerfile: 'Dockerfile'
